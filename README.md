@@ -1,6 +1,6 @@
-# Name of the paper
+# Weightwise almost perfectly balanced functions: secondary constructions for all n and better weightwise nonlinearities
 
-To use the functions open sage (SageMath version 9.5) and load the main.sage file
+To load all the functions open sage (SageMath version 9.5) and load the main.sage file
 
 > load("main.sage")
 
